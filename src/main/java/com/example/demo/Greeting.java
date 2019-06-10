@@ -9,7 +9,7 @@ public class Greeting {
     public Greeting(long id, String content) {
         this.id = id;
         this.content = content;
-        this.pepe = "sfsaf";
+        this.pepe = "ad";
     }
 
     public long getId() {
